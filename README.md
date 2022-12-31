@@ -8,7 +8,9 @@ Comments or suggestions are more than welcome as I still have a lot to learn
 
 ### Version 1
 Made 12/21/22 - 12/24/22
+
 Uploaded to Github 12/31/22
+
 Features:
 - 1 type of enemy, Orcs!
 - simple attack mechanics
