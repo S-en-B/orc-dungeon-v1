@@ -1,7 +1,9 @@
 # Orc Dungeon Version 1
 Orc Dungeon is a simple dungeon crawler created by myself. The final goal
 includes but is not limited to multiple types of enemies, NPCs, and boss battles.
-The only escape from these endless chambers is a magical coin.
+The only escape from these endless chambers is a magical coin. When I have time 
+I'll make a version 2 in C++ with hopefully more enemies and procedurally generationed
+rooms/levels.
 
 ## Feedback
 Comments or suggestions are more than welcome as I still have a lot to learn
